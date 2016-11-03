@@ -115,8 +115,6 @@ export default class HomePage extends Component {
             </View>
           </View>
         </View>
-
-
       </ScrollView>
     );
   }
